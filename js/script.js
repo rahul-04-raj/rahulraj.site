@@ -1,7 +1,7 @@
 const main_menu = 
 "\n" +
 "[[;white;]|] [[b;#ffbc42;]about]               [[;lightblue;]- About me]\n" +
-"[[;white;]|] [[b;#ffbc42;]education]           [[;lightblue;]- My education backgroud]\n" +
+"[[;white;]|] [[b;#ffbc42;]education]           [[;lightblue;]- My education background]\n" +
 "[[;white;]|] [[b;#ffbc42;]resume]              [[;lightblue;]- My Resumé ]\n" +
 "[[;white;]|] [[b;#ffbc42;]projects]            [[;lightblue;]- All my Projects]\n" +
 "[[;white;]|] [[b;#ffbc42;]skills]              [[;lightblue;]- Technical Proficiencies]\n" +
