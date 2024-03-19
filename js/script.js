@@ -27,7 +27,7 @@ const projects =
 "[[;#ffbc42;]WiFi-Based Joint Activity and Location Estimation Using Deep Learning       (May, 2023 - Ongoing)\n]" +
 "[[;skyblue;]  - Developing a system that can accurately recognize human activities based on Wi-Fi signal data (CSI).]\n" +
 "[[;skyblue;]  - Developed and Implemented a Convolutional Neural Network (CNN) model on CSI Jordanian Dataset"+
-                    "to recognize \n    12 different activities and got more than 92% accuracy.]\n" +
+                    " to recognize \n    12 different activities and got more than 92% accuracy.]\n" +
 "[[;skyblue;]  - Collected CSI (Channel State Information) data for different activities using ESP32 Microcontrollers\n" +       
                    "    and processed it using several Python libraries.]\n" +
 "[[;skyblue;]  - Used TensorFlow, NumPy, Pandas, Matplotlib, OpenCV, Scikit-learn to implement CNN and also\n"+
