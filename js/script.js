@@ -9,7 +9,7 @@ const main_menu =
 "[[;white;]|] [[b;#ffbc42;]contact]             [[;lightblue;]- You can connect with me here]\n";
 
 
-const about_me = "[[;lightblue;]Hey, Rahul Here, as an electrical undergrad and tech enthusiast, \nI just can't get enough of diving into the AI/ML and Robotics realms,\nbecause, you know, who needs sleep when there's so much innovation to chase?]\n"
+const about_me = "[[;lightblue;]Hey, Rahul Here, as an electrical undergrad and tech enthusiast, \nI just can't get enough of diving into field of AI/ML and Robotics,\nbecause, you know, who needs sleep when there's so much innovation to chase?]\n"
 
 const education = 
 "[[;white;]|] [[b;#f6bd60;]Rajiv Gandhi Institute of Petroleum Technology]  (2022-26) (Amethi, Uttar Pradesh)\n"+
